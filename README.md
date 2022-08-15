@@ -6,7 +6,7 @@ This web-app was done with React.JS styled with Tailwind and css. Backend done w
 
 ### Run this project locally
 
-Frontend is running on the port 4000
+Back-end is running on the port 4000
 
 In order to test the application you need to install node modules ( command: npm install)  after node modules are installed run the node package modules ( command: node index.js).
 
